@@ -1,0 +1,61 @@
+case_id,gold_intent,predicted_intent,customer_message,retrieval_similarity,action,reason
+2,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,@SpotifyCares I shall drop you a DM in a bit. Seems to be happening to others though looking online and the Spotify forum thingy!,0.1999417757430515,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+3,FEATURE_OR_UI,PLAYBACK_OR_APP_ISSUE,"@SpotifyCares This is real off point, not only does it look atrocious, the app doesn’t even work properly. Will be switching to Apple Music on Tuesday morning if there is no update by then.",0.2063418180875853,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+4,SUBSCRIPTION_OR_PAYMENT,OTHER,@SpotifyCares Okay. Thankyou.,0.5655488635372357,ESCALATE,The customer's intent could not be classified confidently.
+12,SUBSCRIPTION_OR_PAYMENT,PLAYBACK_OR_APP_ISSUE,@SpotifyCares Definatly,0.0938778968441219,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+14,CONTENT_OR_CATALOG,OTHER,@SpotifyCares Hi! Janella P. From Spotify solved my problem! Please thank her for me! And thank you for replying so quickly!,0.2743342788512671,ESCALATE,The customer's intent could not be classified confidently.
+18,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,"@SpotifyCares Thanks for response! The app says that music is playing, but no sound comes out. I have to restart to make it work again.",0.2057069369810235,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+19,PRIVACY_OR_DATA,PRIVACY_OR_DATA,@SpotifyCares Do you think it only affects me? That all other users get their correct location from your database but mine and mine alone is pulled from IP?,0.1245895606907734,ESCALATE,Privacy or personal-data issues may require human review.
+22,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,@SpotifyCares Actually I can't access any of my songs before I could choose what song to listen too also if I go on shuffle play and a song I dislike is on I have a certain amount of skips and before you say I need premium I already have premium so help 😰,0.1421600474454641,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+25,PLAYBACK_OR_APP_ISSUE,FEATURE_OR_UI,"@SpotifyCares I try to shuffle in playlist and it really doesn't play randomly, plays the same artist almost continuously. Don't know what connect is",0.1873940051458039,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+44,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,"@SpotifyCares Tried again.  Closed.  Opened.
+
+No update.
+
+Signed out.  Signed back in.
+
+as I stated no big deal...just a bit annoying.
+
+Thanks.",0.3048401629688276,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+46,PLAYBACK_OR_APP_ISSUE,CONTENT_OR_CATALOG,@SpotifyCares This https://t.co/nBPLTZTNw7,0.3395734608402473,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+47,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,"@SpotifyCares and it shows its stopped at the song, not pausing or so That happens to often and i see other too have the problem in the @115888 community",0.1368954607892293,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+52,SUBSCRIPTION_OR_PAYMENT,SUBSCRIPTION_OR_PAYMENT,@SpotifyCares Yes. I tried registering for unidays found the institute but it said they weren't supported.,0.1930284552626799,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+57,CONTENT_OR_CATALOG,CONTENT_OR_CATALOG,@SpotifyCares is this right https://t.co/xOQEGoNN6M,0.2365314373665052,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+59,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,"@SpotifyCares @115888 The only step I haven't tried yet is the ""manage devices"", all the rest I've done or is irrelevant. Would that possibly work? Cause I see two problems:
+-Individual songs over time deleting themselves
+-All download buttons reset and all music gone at once",0.1488690619906857,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+62,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,"@SpotifyCares PC, Windows 10, v. 1.0.68.407",0.660642982060784,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+63,OTHER,SUBSCRIPTION_OR_PAYMENT,@SpotifyCares Should you not give you members a better deal my son loves listening to his music and pays his £9-99 you should try and be fair with everyone,0.1383048774321063,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+64,ACCOUNT,OTHER,@SpotifyCares All sorted now! But thanks for the response :),0.6543870364723843,ESCALATE,The customer's intent could not be classified confidently.
+65,FEATURE_OR_UI,OTHER,@SpotifyCares Ok hang on,0.44386311582737,ESCALATE,The customer's intent could not be classified confidently.
+68,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,@SpotifyCares I deleted and reinstalled but that did not fix it,0.4183567498014278,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+70,PLAYBACK_OR_APP_ISSUE,OTHER,"@SpotifyCares Ok, thanks.",1.0000000000000002,ESCALATE,The customer's intent could not be classified confidently.
+71,FEATURE_OR_UI,CONTENT_OR_CATALOG,@SpotifyCares If you sort that I’ll finally be able to get rid of iTunes once and for all,0.1880640135010942,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+72,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,@SpotifyCares Yes but the problem returns,0.3931484189080915,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+78,FEATURE_OR_UI,FEATURE_OR_UI,@SpotifyCares New update tomorrow ?,0.3239745722426933,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+87,PLAYBACK_OR_APP_ISSUE,FEATURE_OR_UI,"@SpotifyCares Hi guys, thanks for the link. I already clean my cache regularly (~ every month), but I would love not to have to do that :) (thus, automatically cleaning old cached files). I'm on nexus, so I can't use a SD, sadly. Plus, app doesn't need that much data for real.",0.1686429345931655,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+96,CONTENT_OR_CATALOG,FEATURE_OR_UI,"@SpotifyCares i have an iphone 7, ios11, and i have spotify premium",0.353908506908501,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+97,ACCOUNT,SUPPORT_CHANNEL_OR_LANGUAGE,@SpotifyCares hi i love u but there's no reply,0.2721466761747916,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+98,FEATURE_OR_UI,FEATURE_OR_UI,@SpotifyCares Five years and counting... Make it happen! 😊,0.3795742304797199,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+107,FEATURE_OR_UI,PLAYBACK_OR_APP_ISSUE,@SpotifyCares I noticed it today and I'm on private university wifi where each person has their own connection,0.1320022295601473,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+110,ACCOUNT,OTHER,@SpotifyCares Welp okay,0.4956568718608439,ESCALATE,The customer's intent could not be classified confidently.
+111,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,"@SpotifyCares Sure, 8.4.21.508 armV7",0.6867325211609683,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+118,CONTENT_OR_CATALOG,FEATURE_OR_UI,"@SpotifyCares No, there's nothing else I want. I just want to use Spotify here.",0.2171336804865019,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+126,FEATURE_OR_UI,FEATURE_OR_UI,@SpotifyCares 8.4.22.857? I think.,0.9456367323464316,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+137,ACCOUNT,OTHER,@SpotifyCares Thank you,1.0000000000000002,ESCALATE,The customer's intent could not be classified confidently.
+138,CONTENT_OR_CATALOG,FEATURE_OR_UI,@SpotifyCares Here’s 680K Google results https://t.co/RSQirIhfI9 on “spotify explicit”. Enough of “we’ll be sure to pass it on”. Take action. Seriously.,0.1775321949358605,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+139,SUBSCRIPTION_OR_PAYMENT,SUBSCRIPTION_OR_PAYMENT,@SpotifyCares I can't update them until I have the new card sent as I don't yet know the number etc,0.1830635155624303,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+154,PLAYBACK_OR_APP_ISSUE,FEATURE_OR_UI,@SpotifyCares Shouldn’t there be an indicator here at the top saying how many downloads still need to happen? https://t.co/SqWtKPjjXi,0.219062823855105,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+157,SUPPORT_CHANNEL_OR_LANGUAGE,OTHER,@SpotifyCares https://t.co/tjHvHEL2vz aaaw men TFF is my favorite. Here's one for squashing every bug in the future 🎶🖤⚡👽,0.2083443478454654,ESCALATE,The customer's intent could not be classified confidently.
+158,CONTENT_OR_CATALOG,CONTENT_OR_CATALOG,"@SpotifyCares Im in the US, It just uploaded and I'm listening to it now! Thank you &lt;3",0.3653559573381751,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+165,CONTENT_OR_CATALOG,FEATURE_OR_UI,"@SpotifyCares An iPod Touch 6th gen, running iOS 11.1.1",0.6153695896754923,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+166,PLAYBACK_OR_APP_ISSUE,CONTENT_OR_CATALOG,"@SpotifyCares All songs. I guess it's one thing if it's pulled by an artist, but if a licensing agreement is about to expire, a heads-up would be nice.",0.1517650914844351,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+167,CONTENT_OR_CATALOG,CONTENT_OR_CATALOG,@SpotifyCares USA,1.0000000000000002,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+175,FEATURE_OR_UI,ACCOUNT,@SpotifyCares Windows 950xl phone.,0.4780903789185446,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+178,PROMOTION_OR_EVENT,OTHER,@SpotifyCares Just did. Thanks,1.0,ESCALATE,The customer's intent could not be classified confidently.
+179,CONTENT_OR_CATALOG,FEATURE_OR_UI,@SpotifyCares I'm using macOS Sierra ver 10.12 and my current Spotify version is 1.0.64.399.g4637b02a,0.4507814880960608,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+183,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,"@SpotifyCares i am trying it on my Mac Pro, in safari, but all I see is a white space. No success, and daughters complaining :-(",0.1712874367466462,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+184,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,"@SpotifyCares 15” MacBook Pro, macOS Sierra 10.12.6, Spotify Premium 1.0.66478.g1296534d",0.4408418141444933,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+194,SUBSCRIPTION_OR_PAYMENT,PLAYBACK_OR_APP_ISSUE,"@SpotifyCares I'm running Windows 10 Home. My Spotify version is whatever is available through the Windows store, fully updated.",0.3320576473849946,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+195,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,"@SpotifyCares Right at the beginning and the second chorus, next track did it too, not sure of the rest as I turned it off",0.1669720549183043,AUTO_HANDLE,The intent is sufficiently clear for automated handling.
+197,FEATURE_OR_UI,OTHER,@SpotifyCares Thanks! You've been very helpful!,0.6166071012707739,ESCALATE,The customer's intent could not be classified confidently.

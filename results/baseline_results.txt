@@ -1,0 +1,26 @@
+Hiver SDE Assignment — Baseline Results
+
+Dataset:
+- Spotify customer-support interactions
+- Human-labeled gold set: 200 examples
+
+Baseline 1 — Majority Classifier:
+- Majority intent: PLAYBACK_OR_APP_ISSUE
+- Accuracy: 37.0%
+
+Baseline 2 — TF-IDF + Logistic Regression:
+- 3-fold stratified cross-validation
+- Out-of-fold accuracy: 34.5%
+- Macro F1: 0.06
+
+Retrieval Sanity Check:
+- Gold examples: 200
+- Top-1 intent match: 25.0%
+- Top-3 intent match: 51.5%
+
+Interpretation:
+- TF-IDF classification does not beat the majority baseline.
+- TF-IDF retrieval can find related examples, but is not reliable enough
+  to determine intent by itself.
+- Retrieval will therefore be used as supporting context rather than as
+  the sole decision mechanism.

@@ -1,0 +1,224 @@
+case_id,customer_tweet_id,customer_id,created_at,customer_message,context,case_type,intent_label,notes
+2,1532345,475306,Fri Nov 03 20:34:01 +0000 2017,@SpotifyCares I shall drop you a DM in a bit. Seems to be happening to others though looking online and the Spotify forum thingy!,"[CUSTOMER] Yo @115888 , can you sort out your app/programme for the windows creators updates. Every time it loads it freezes my laptop since update :(
+[SPOTIFY] @475306 Hi Anna! That doesn't sound good. What Windows and Spotify versions are you using? Can you send us a bit more info on what's happening? /AU
+[CUSTOMER] @SpotifyCares I shall drop you a DM in a bit. Seems to be happening to others though looking online and the Spotify forum thingy!",FOLLOW_UP,PLAYBACK_OR_APP_ISSUE,
+3,1564262,483022,Thu Nov 09 23:47:30 +0000 2017,"@SpotifyCares This is real off point, not only does it look atrocious, the app doesn’t even work properly. Will be switching to Apple Music on Tuesday morning if there is no update by then.","[CUSTOMER] @115888 when y’all dropping that iPhone X update?
+[SPOTIFY] @483022 Hey! We don't have anything to share yet, but we'll be sure to post updates on this. Give us a shout if you need anything else /CO
+[CUSTOMER] @SpotifyCares This is real off point, not only does it look atrocious, the app doesn’t even work properly. Will be switching to Apple Music on Tuesday morning if there is no update by then.",FEEDBACK,FEATURE_OR_UI,
+4,187578,160026,Wed Oct 04 07:38:13 +0000 2017,@SpotifyCares Okay. Thankyou.,"[CUSTOMER] Cara upgrade spotify ke premium gimana caranya ya?
+Di account ga ada pilihan. 🙄 https://t.co/M2oPPhuwY6
+[SPOTIFY] @160026 1: Hey! We can help out in English via Twitter, but we also have Indonesian support via email at https://t.co/ZgU70TbP8M. If you'd...
+[CUSTOMER] @SpotifyCares Thankyou. My problem solved. 👌🏻
+[SPOTIFY] @160026 Glad to hear everything's sorted out! If you need anything else, you know where to find us 🙂 /DB
+[CUSTOMER] @SpotifyCares Okay. Thankyou.",ACKNOWLEDGEMENT,SUBSCRIPTION_OR_PAYMENT,
+12,1169125,395005,Tue Oct 24 18:04:14 +0000 2017,@SpotifyCares Definatly,"[CUSTOMER] @115888 why homedepot tellin me im gonna be listening to musicfor 30mins adfree but 2 songs later im listining about some mf torque wrenchs
+[SPOTIFY] @395005 Hey, that doesn't sound good! Did the app crash at any point during the 30 minutes? That can cause the ad-free time to reset /CP
+[CUSTOMER] @SpotifyCares No
+[SPOTIFY] @395005 Thanks. Did you definitely watch the video ad that grants you 30 minutes ad-free listening in full after hearing the offer? /CP
+[CUSTOMER] @SpotifyCares Definatly",FEEDBACK,SUBSCRIPTION_OR_PAYMENT,
+14,1852506,554403,Thu Oct 19 02:58:20 +0000 2017,@SpotifyCares Hi! Janella P. From Spotify solved my problem! Please thank her for me! And thank you for replying so quickly!,"[CUSTOMER] @SpotifyCares hello! Some albums won’t play when I click on the song I want. Please help!
+[SPOTIFY] @554403 Hey Cynthia! The cavalry's here. Can you fire over the device's make/model, operating system, and the Spotify version you're using? /KB
+[CUSTOMER] @SpotifyCares Hi! Janella P. From Spotify solved my problem! Please thank her for me! And thank you for replying so quickly!",ACKNOWLEDGEMENT,CONTENT_OR_CATALOG,
+18,89535,135367,Thu Nov 30 15:04:52 +0000 2017,"@SpotifyCares Thanks for response! The app says that music is playing, but no sound comes out. I have to restart to make it work again.","[CUSTOMER] @SpotifyCares are you aware of the iPhone X / iOS11 bug wherein if a video plays in another app it stops all audio coming from your app? Have to restart each time.
+[SPOTIFY] @135367 Hi there. Just to clarify, do you need to restart the app to continue your music, or do you just resume the playback? /LM
+[CUSTOMER] @SpotifyCares Thanks for response! The app says that music is playing, but no sound comes out. I have to restart to make it work again.",FOLLOW_UP,PLAYBACK_OR_APP_ISSUE,
+19,2422829,496327,Tue Nov 14 19:43:12 +0000 2017,@SpotifyCares Do you think it only affects me? That all other users get their correct location from your database but mine and mine alone is pulled from IP?,"[CUSTOMER] @SpotifyCares Look, I know the geoip databases get @112074 wrong, but you KNOW MY BILLING ADDRESS. Stop using guesswork to market to me and USE MY PROVIDED INFORMATION. I have a right to rectification that you're making impossible. #DataProtection #GDPR https://t.co/OgDINBn6Uk
+[SPOTIFY] @496327 Hi Matthew! Sorry to hear that. We'll help you out, just send us more info regarding your concern over DM and we'll start from there /SF https://t.co/ldFdZRiNAt
+[CUSTOMER] @SpotifyCares What more info do you need? The original tweet had it all.
+[SPOTIFY] @496327 Got it. We need you to send us your IP address, email address and other info that we prefer you send us over DM. We'll be waiting /SF
+[CUSTOMER] @SpotifyCares Do you think it only affects me? That all other users get their correct location from your database but mine and mine alone is pulled from IP?",FOLLOW_UP,PRIVACY_OR_DATA,It was related to billing address and IP so I chose this intent
+22,1490604,466180,Sat Nov 25 17:08:18 +0000 2017,@SpotifyCares Actually I can't access any of my songs before I could choose what song to listen too also if I go on shuffle play and a song I dislike is on I have a certain amount of skips and before you say I need premium I already have premium so help 😰,"[CUSTOMER] A festive treat from Sia 🎀🎄Listen to “Everyday is Christmas” now
+[CUSTOMER] @116130 PLEASE FIX SPOTIFY
+[SPOTIFY] @466180 Hey Gillian, help's here. What's happening exactly? If you could also let us know the device, operating system, and Spotify version you're using, that'd be great /AY
+[CUSTOMER] @SpotifyCares Actually I can't access any of my songs before I could choose what song to listen too also if I go on shuffle play and a song I dislike is on I have a certain amount of skips and before you say I need premium I already have premium so help 😰",FOLLOW_UP,PLAYBACK_OR_APP_ISSUE,
+25,1776734,533903,Wed Oct 18 22:26:01 +0000 2017,"@SpotifyCares I try to shuffle in playlist and it really doesn't play randomly, plays the same artist almost continuously. Don't know what connect is","[CUSTOMER] @115888 what's the deal with the weak random in playlists? Keeps playing the same band consecutively - this has been happening forever now!
+[SPOTIFY] @533903 Hey! We’ve made some improvements to our shuffle algorithm. We’d love to hear your feedback here: https://t.co/T3vZnSL3od /RI
+[CUSTOMER] @SpotifyCares It's a little out dated
+[SPOTIFY] @533903 To clarify, does this happen when you're using Shuffle with Connect? /YM
+[CUSTOMER] @SpotifyCares I try to shuffle in playlist and it really doesn't play randomly, plays the same artist almost continuously. Don't know what connect is",FOLLOW_UP,PLAYBACK_OR_APP_ISSUE,
+44,616783,266345,Thu Oct 26 12:56:26 +0000 2017,"@SpotifyCares Tried again.  Closed.  Opened.
+
+No update.
+
+Signed out.  Signed back in.
+
+as I stated no big deal...just a bit annoying.
+
+Thanks.","[SPOTIFY] @266345 Hey there! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /RH
+[CUSTOMER] @SpotifyCares Thanks.  
+
+Using a Mac notebook.  IOs Sierra 10.12.6 and Not sure where to find the Spotify version but did find this 1.0.66.478.g1296534d
+[SPOTIFY] @266345 Thanks. Does restarting your device and relaunching the app help? /TC
+[CUSTOMER] @SpotifyCares It did not. But shall try again
+
+Thank you.
+[SPOTIFY] @266345 No worries. Keep us in the loop /TC
+[CUSTOMER] @SpotifyCares Tried again.  Closed.  Opened.
+
+No update.
+
+Signed out.  Signed back in.
+
+as I stated no big deal...just a bit annoying.
+
+Thanks.",FEEDBACK,PLAYBACK_OR_APP_ISSUE,
+46,997163,272397,Tue Nov 21 18:13:58 +0000 2017,@SpotifyCares This https://t.co/nBPLTZTNw7,"[CUSTOMER] Keep the flow with ad-free music. Premium is just 99p for 3 months. https://t.co/zwM1HYBWMw
+[CUSTOMER] @115888 Linky no worky 😟
+[SPOTIFY] @272397 Hey Andy, that doesn't sound right! Can you send us a screenshot of any error messages you're getting? We'll see what we can suggest /JE
+[CUSTOMER] @SpotifyCares This https://t.co/nBPLTZTNw7",FOLLOW_UP,PLAYBACK_OR_APP_ISSUE,
+47,1860236,556105,Thu Oct 19 15:27:49 +0000 2017,"@SpotifyCares and it shows its stopped at the song, not pausing or so That happens to often and i see other too have the problem in the @115888 community","[CUSTOMER] it ain't a feature that a player is playing the songs without stopping suddenly while playing on the go (3/3) g it fixd @115888 wh UWP app!
+[SPOTIFY] @556105 Hi there! Can you let us know what's happening exactly? We're here to help out /GK
+[CUSTOMER] @SpotifyCares and it shows its stopped at the song, not pausing or so That happens to often and i see other too have the problem in the @115888 community",FOLLOW_UP,PLAYBACK_OR_APP_ISSUE,
+52,726813,294100,Wed Oct 11 06:02:49 +0000 2017,@SpotifyCares Yes. I tried registering for unidays found the institute but it said they weren't supported.,"[CUSTOMER] @115888 I'm a student with an NUS card but can't register for your student premium? Unsupported by @260711  Wtf? Poor form.
+[SPOTIFY] @294100 Hey Ruth! NUS is currently unavailable as a discount option. We’d recommend using UNiDAYS at https://t.co/ZCWeItTUhj /PL
+[CUSTOMER] @SpotifyCares @260711 don't support my provider so can't use them. Am I just meant to wait until they sort that out?
+[SPOTIFY] @294100 Just to make sure that we're on the same page, are you pertaining to the institution you're currently enrolled in? /ME
+[CUSTOMER] @SpotifyCares Yes. I tried registering for unidays found the institute but it said they weren't supported.",FOLLOW_UP,SUBSCRIPTION_OR_PAYMENT,customer is a student and and doing the follow up regarding the subscription he wants.
+57,2442928,700528,Tue Nov 14 23:49:56 +0000 2017,@SpotifyCares is this right https://t.co/xOQEGoNN6M,"[CUSTOMER] hello @115888 there is a typo this song should be called “bit part” not “big part” thank you in advance signed tim https://t.co/itPdeDTW0A
+[CUSTOMER] @115888 cc @SpotifyCares please i just want this matter resolved
+[SPOTIFY] @700528 Hey Tim, thanks for reporting! Can you send us the track's URI? We'll have a look /LO
+[CUSTOMER] @SpotifyCares is this right https://t.co/xOQEGoNN6M",SUPPORT_REQUEST,CONTENT_OR_CATALOG,The customer noticed a typo and now he wants it fixed.
+59,2095141,546846,Wed Nov 08 07:06:57 +0000 2017,"@SpotifyCares @115888 The only step I haven't tried yet is the ""manage devices"", all the rest I've done or is irrelevant. Would that possibly work? Cause I see two problems:
+-Individual songs over time deleting themselves
+-All download buttons reset and all music gone at once","[CUSTOMER] Yo @115888, this is getting ridiculous! Already 3rd time redownloading all music after crash of some sorts. Not the only one here, lots of people on forums complaining. Don't give us a ""solution"", there shouldn't be a problem in the first place! Really annoying!
+[SPOTIFY] @546846 @115888 Hey Jonathan! Can you tell us more about the crash that you've mentioned? We'll be right here waiting /LO
+[CUSTOMER] @SpotifyCares @115888 Well, no major crash or anything, just the app not capable of handling a few tasks at once. Stuff doesn't load, some does, when I return, it doesn't anymore, ... You get the point. I close the app, restart the phone, bang, all downloads reset.
+[SPOTIFY] @546846 @115888 Got it. Just to check, have you already followed all the steps mentioned at https://t.co/38J7tFlIBF? /LO
+[CUSTOMER] @SpotifyCares @115888 The only step I haven't tried yet is the ""manage devices"", all the rest I've done or is irrelevant. Would that possibly work? Cause I see two problems:
+-Individual songs over time deleting themselves
+-All download buttons reset and all music gone at once",FOLLOW_UP,PLAYBACK_OR_APP_ISSUE,
+62,2920759,808368,Wed Nov 29 02:34:26 +0000 2017,"@SpotifyCares PC, Windows 10, v. 1.0.68.407","[CUSTOMER] @SpotifyCares Getting error message ""Can't play song"" for everything. Tried all the step in the troubleshooting website. Any advice?
+[SPOTIFY] @808368 Hi, help's here! Can you let us know your device, operating system, and Spotify version? We'll be waiting for your reply /MG
+[CUSTOMER] @SpotifyCares PC, Windows 10, v. 1.0.68.407",SUPPORT_REQUEST,PLAYBACK_OR_APP_ISSUE,"Trouble shooting happening with a sentence ""Can't play song"""
+63,2887775,800778,Tue Nov 28 18:38:28 +0000 2017,@SpotifyCares Should you not give you members a better deal my son loves listening to his music and pays his £9-99 you should try and be fair with everyone,"[CUSTOMER] 3 months of Premium is just 99p. Play music offline wherever you go. https://t.co/DIutoPi5Q5
+[CUSTOMER] @115888 Yes my son s paying you £9-99 a month why don’t you give something back to your loyal costumers he will to say anything to you as he as Asperger and loves his music you should contact all
+[SPOTIFY] @800778 Hey Laura! Right now, this offer's for new subscribers only, but we'll make sure your feedback is passed on to the relevant folks. Stay tuned for more deals for existing Premium subscribers 🙂 /AY
+[CUSTOMER] @SpotifyCares Should you not give you members a better deal my son loves listening to his music and pays his £9-99 you should try and be fair with everyone",FEEDBACK,OTHER,
+64,2240459,653231,Fri Nov 10 14:20:50 +0000 2017,@SpotifyCares All sorted now! But thanks for the response :),"[CUSTOMER] @SpotifyCares I believe someone has hacked into my Spotify account. When I log in via facebook there is an unknown email attached to my account and when I try and listen to Spotify it says a device I don't know if playing music. Please help.
+[SPOTIFY] @653231 Hi Alexandra! The cavalry's here. Can you DM us your account's email address? We'll take a look backstage /AU https://t.co/ldFdZRiNAt
+[CUSTOMER] @SpotifyCares All sorted now! But thanks for the response :)",ACKNOWLEDGEMENT,ACCOUNT,
+65,1021648,361772,Thu Oct 12 15:55:23 +0000 2017,@SpotifyCares Ok hang on,"[CUSTOMER] @115888 every time I open your app you ask me if I am a #veteran.  I am. But it didn't catch.  6 times I've answered your ?
+[CUSTOMER] @115888 This is a screenshot https://t.co/mokZbNIjzZ
+[SPOTIFY] @361772 Hi Brian! That doesn't sound good. Can you try logging out, restarting your device, then logging back in? Let us know if that helps /QI
+[CUSTOMER] @SpotifyCares Ok hang on",FOLLOW_UP,FEATURE_OR_UI,This customer is irritated by answering the sme question again and again
+68,2352389,679799,Mon Nov 13 21:12:19 +0000 2017,@SpotifyCares I deleted and reinstalled but that did not fix it,"[CUSTOMER] @SpotifyCares if I get a notification or accidentally open Siri while playing music, it will cut the music off and force me to close and reopen the app so I can listen to music again (don’t have premium so idk if changing songs help the problem)
+[SPOTIFY] @679799 Hey there! What iOS and Spotify version are you using? Also, does it happen with any notification or a specific one? Keep us posted /BH
+[CUSTOMER] @SpotifyCares Mostly Snapchat notifications, but I have noticed that if my phone is locked, it won’t tamper with the music, and I’m running latest IOS on iPhone 6s+ with the latest version of Spotify
+[SPOTIFY] @679799 Alright! Let's try reinstalling Spotify following these steps: https://t.co/3FU57oyTNJ. Let us know how it goes /BH
+[CUSTOMER] @SpotifyCares I deleted and reinstalled but that did not fix it",FOLLOW_UP,PLAYBACK_OR_APP_ISSUE,
+70,673024,280546,Thu Oct 05 14:58:16 +0000 2017,"@SpotifyCares Ok, thanks.","[CUSTOMER] @SpotifyCares My track seems to have been taken down from Spotify for some reason. How can I find out what has happened? TIA!
+[SPOTIFY] @280546 Hey! We don't have any info about this at the moment. We'd suggest contacting Artist Services for more details: https://t.co/p1wbtdELHu /MC
+[CUSTOMER] @SpotifyCares Ok, thanks.",ACKNOWLEDGEMENT,PLAYBACK_OR_APP_ISSUE,
+71,2417409,694697,Sun Oct 29 10:45:04 +0000 2017,@SpotifyCares If you sort that I’ll finally be able to get rid of iTunes once and for all,"[CUSTOMER] @115888 Why isn't A Clockwork Orange's soundtrack in your libs? It's like the only that's missing now...oh that and more Will Oldham
+[SPOTIFY] @694697 Hey Jack! Can you let us know what country your account is set to? We'll take a look backstage /RS
+[CUSTOMER] @SpotifyCares If you sort that I’ll finally be able to get rid of iTunes once and for all",SUPPORT_REQUEST,FEATURE_OR_UI,
+72,1283285,420189,Thu Oct 26 18:17:00 +0000 2017,@SpotifyCares Yes but the problem returns,"[CUSTOMER] @SpotifyCares My phone can’t recognize the app within the control center &amp; lock screen. I can’t pause or skip songs &amp; the names don’t show.
+[SPOTIFY] @420189 Hey Joel, that doesn't sound right. What device, iOS, and Spotify versions are you using? We'll see what we can suggest /JE
+[CUSTOMER] @SpotifyCares iPhone 7 Plus, iOS 11.0.3, Spotify 8.4.24.506
+[SPOTIFY] @420189 Gotcha. Does logging out, restarting your iPhone (hold the Sleep/Wake + Volume Down buttons for 10 seconds), and logging back in help? /JE
+[CUSTOMER] @SpotifyCares Yes but the problem returns",FOLLOW_UP,PLAYBACK_OR_APP_ISSUE,
+78,888587,325676,Fri Oct 13 22:11:18 +0000 2017,@SpotifyCares New update tomorrow ?,"[SPOTIFY] @325676 Just to clarify, What device are you using? We'll see what we can suggest /JX
+[CUSTOMER] @SpotifyCares Windows 950xl phone.
+[SPOTIFY] @325676 3: Thank you for your suggestions! We can’t make any promises but we've got it noted and we’ll pass your it onto the right folks /JX
+[CUSTOMER] @SpotifyCares OK. Night.
+[SPOTIFY] @325676 Thanks for letting us know. If you ever need anything else, just shout and we'll come running 🏃 /JX
+[CUSTOMER] @SpotifyCares New update tomorrow ?",ACKNOWLEDGEMENT,FEATURE_OR_UI,
+87,2118706,624396,Wed Nov 08 14:29:15 +0000 2017,"@SpotifyCares Hi guys, thanks for the link. I already clean my cache regularly (~ every month), but I would love not to have to do that :) (thus, automatically cleaning old cached files). I'm on nexus, so I can't use a SD, sadly. Plus, app doesn't need that much data for real.","[CUSTOMER] @SpotifyCares we have to talk: you eat *way* more than necessary, on android. I get it that you have to cache files for better experience, but maybe you can delete them at some point? When I want offline music, I download it offline :)
+[SPOTIFY] @624396 Hey there! We have some info about clearing your device's cache here: https://t.co/zEMYB82ZiG. Hope this helps /LW
+[CUSTOMER] @SpotifyCares Hi guys, thanks for the link. I already clean my cache regularly (~ every month), but I would love not to have to do that :) (thus, automatically cleaning old cached files). I'm on nexus, so I can't use a SD, sadly. Plus, app doesn't need that much data for real.",FEEDBACK,PLAYBACK_OR_APP_ISSUE,The customer wants to have the feature of automatically cleaning of cached files.
+96,1406397,446898,Thu Nov 02 14:07:13 +0000 2017,"@SpotifyCares i have an iphone 7, ios11, and i have spotify premium","[SPOTIFY] @446898 Hey Audrey! Can you tell us more about what's happening exactly? We'll see what we can suggest /AR
+[CUSTOMER] @SpotifyCares when my friends play the stranger things playlists, they get the easter egg to work and for some reason mine won’t work
+[SPOTIFY] @446898 Thanks for letting us know. Can you send us the Spotify URIs of the album and track you're referring to? We'll check under the hood /AR
+[CUSTOMER] @SpotifyCares https://t.co/UMZ1dHLpdE
+[SPOTIFY] @446898 Thanks! Could you let us know the device/OS and Spotify version you're using? We'll see what we can suggest /AR
+[CUSTOMER] @SpotifyCares i have an iphone 7, ios11, and i have spotify premium",FOLLOW_UP,CONTENT_OR_CATALOG,he is not getting the desired playlist he wants of stranger things.
+97,2861327,794910,Mon Nov 27 22:34:18 +0000 2017,@SpotifyCares hi i love u but there's no reply,"[CUSTOMER] @SpotifyCares HI HELP I SENT A DM I NEED TO REMOVE FOLLOWERS OR BLOCK THEM BUT HOW ON IPHONE
+[CUSTOMER] @SpotifyCares @SpotifyCares HELLOOOOO HEELLPP
+[SPOTIFY] @794910 Hey, we've just replied to your DMs. We'll carry on chatting there /SY
+[CUSTOMER] @SpotifyCares hi i love u but there's no reply",SUPPORT_REQUEST,ACCOUNT,This man wants to block some people but unable to do so he is asking for help.
+98,1948845,578986,Mon Oct 30 16:22:10 +0000 2017,@SpotifyCares Five years and counting... Make it happen! 😊,"[CUSTOMER] Hey @SpotifyCares! When will u add a filter for explicit content? Many of your subscribers want this. Thanks! https://t.co/xYq7hVBgn4
+[SPOTIFY] @578986 Hi Liselotte, we hear you! For more info, and to vote for the official idea, head here: https://t.co/CdI1SY9KZE. Stay awesome 😁 /TY
+[CUSTOMER] @SpotifyCares Five years and counting... Make it happen! 😊",SUPPORT_REQUEST,FEATURE_OR_UI,he wants a filter for explicit content feature and he has been waiting for this from the past five years.
+107,743547,297789,Wed Oct 11 17:41:49 +0000 2017,@SpotifyCares I noticed it today and I'm on private university wifi where each person has their own connection,"[CUSTOMER] @SpotifyCares your web player won't work on my laptop, the play button is grayed out and music won't play. Refreshing does nothing.
+[SPOTIFY] @297789 Hey Miranda, that's not cool! Can you let us know the device and browser you're using? We'll see what we can suggest /JC
+[CUSTOMER] @SpotifyCares MacBook pro 2015 on Google chrome
+[SPOTIFY] @297789 Thanks for the info. Are you on a home or office network? Also, how long has this been happening for? /CB
+[CUSTOMER] @SpotifyCares I noticed it today and I'm on private university wifi where each person has their own connection",FOLLOW_UP,FEATURE_OR_UI,
+110,2982072,822477,Thu Nov 30 05:23:41 +0000 2017,@SpotifyCares Welp okay,"[CUSTOMER] @SpotifyCares On your app for Android do you allow the owner to access who follows a certain playlist?
+[SPOTIFY] @822477 Hey there! This isn't currently possible, but to help make it happen, we'd suggest adding your support for the idea at https://t.co/mD8yN52lZu /AR
+[CUSTOMER] @SpotifyCares Welp okay",SUPPORT_REQUEST,ACCOUNT,
+111,186181,159744,Wed Oct 04 06:44:56 +0000 2017,"@SpotifyCares Sure, 8.4.21.508 armV7","[CUSTOMER] @SpotifyCares - Popping noises while listening to Spotify, but only when screen is off and downloaded High Quality.  Galaxy S6 Android 7.0
+[SPOTIFY] @159744 Hey, that doesn't sound right. Can you let us know the Spotify version you're using? We'll see what we can suggest /RH
+[CUSTOMER] @SpotifyCares Sure, 8.4.21.508 armV7",FOLLOW_UP,PLAYBACK_OR_APP_ISSUE,
+118,2942718,272838,Wed Nov 29 14:51:28 +0000 2017,"@SpotifyCares No, there's nothing else I want. I just want to use Spotify here.","[CUSTOMER] @115888 Hey Spotifyyyyyy! When are you releasing in Indiaaaa? Waiting since so looooong!
+[SPOTIFY] @272838 Hi Vikramajit! We're afraid we don't have any news on this yet, but we're launching regularly in countries around the world. Sign up here to be first to hear: https://t.co/XDwWzj7cLP /AU
+[CUSTOMER] @SpotifyCares So mean!
+[SPOTIFY] @272838 Sorry to hear that. Don't worry, we'll make sure to pass your thoughts on to the right team. If there's anything else, just let give us a shout /AU
+[CUSTOMER] @SpotifyCares No, there's nothing else I want. I just want to use Spotify here.",ACKNOWLEDGEMENT,CONTENT_OR_CATALOG,
+126,416496,214355,Tue Oct 10 03:02:19 +0000 2017,@SpotifyCares 8.4.22.857? I think.,"[CUSTOMER] @115888 why can't I share music with my friend?? I have Android 8.0 and it won't allow me to share music as usual
+[CUSTOMER] @115888 this has been happening for several days. Assume there was high demand for Tom petty music but alas it's still happening.
+[CUSTOMER] @115888 @SpotifyCares
+[SPOTIFY] @214355 Hey Miranda! Sorry to hear that. Can you let us know what Spotify version you're using? We'll check backstage /RK
+[CUSTOMER] @SpotifyCares 8.4.22.857? I think.",FOLLOW_UP,FEATURE_OR_UI,
+137,1867683,557917,Sat Oct 21 05:19:48 +0000 2017,@SpotifyCares Thank you,"[CUSTOMER] @SpotifyCares my Premium account has changed to free even though my payments have gone through. I have lost all my playlists.
+[SPOTIFY] @557917 Hey Bianca, help's here! Could you DM us your account's username and email address? We'll take a look under the hood 🔍 /DQ https://t.co/ldFdZRiNAt
+[CUSTOMER] @SpotifyCares Thank you",ACKNOWLEDGEMENT,ACCOUNT,
+138,690853,285072,Sat Oct 28 23:22:04 +0000 2017,@SpotifyCares Here’s 680K Google results https://t.co/RSQirIhfI9 on “spotify explicit”. Enough of “we’ll be sure to pass it on”. Take action. Seriously.,"[CUSTOMER] Hey @115888 it’s long overdue for explicit filtering. At the point of removing all Spotify alarms on @118117. 9k requests on your own forum
+[SPOTIFY] @285072 Hi Steve. We're sorry you feel that way. We appreciate your feedback, and we'll be sure to pass it on to the right team /LM
+[CUSTOMER] @SpotifyCares Here’s 680K Google results https://t.co/RSQirIhfI9 on “spotify explicit”. Enough of “we’ll be sure to pass it on”. Take action. Seriously.",SUPPORT_REQUEST,CONTENT_OR_CATALOG,
+139,2075571,613839,Tue Oct 10 10:48:58 +0000 2017,@SpotifyCares I can't update them until I have the new card sent as I don't yet know the number etc,"[CUSTOMER] @SpotifyCares ... I have my new card? Thanks!
+[SPOTIFY] @613839 Hi Alice, that's good to know! If you haven't done so, you can update your payment details at https://t.co/Q1zNbUXR4q. Hope this helps /RE
+[CUSTOMER] @SpotifyCares I can't update them until I have the new card sent as I don't yet know the number etc",FOLLOW_UP,SUBSCRIPTION_OR_PAYMENT,
+154,526267,241769,Sat Dec 02 09:26:10 +0000 2017,@SpotifyCares Shouldn’t there be an indicator here at the top saying how many downloads still need to happen? https://t.co/SqWtKPjjXi,"[CUSTOMER] @SpotifyCares how to troubleshoot why offline music won’t download. Left it for hours... https://t.co/BoyXCKUewc
+[SPOTIFY] @241769 Hi Nathan! Check out the things under “Music not downloading” at https://t.co/EidIESdRDv. They should help with this. Let us know if there's anything else /AP
+[CUSTOMER] @SpotifyCares Thanks. None of those seem to apply. I don’t get an error about &gt;3333 downloads
+[SPOTIFY] @241769 We understand. Have you already downloaded music on 3 other devices? You can check how many offline devices you have here: https://t.co/8WYo44DHWG. Hope this helps /AP
+[CUSTOMER] @SpotifyCares Shouldn’t there be an indicator here at the top saying how many downloads still need to happen? https://t.co/SqWtKPjjXi",SUPPORT_REQUEST,PLAYBACK_OR_APP_ISSUE,
+157,1371868,385696,Mon Oct 16 16:10:38 +0000 2017,@SpotifyCares https://t.co/tjHvHEL2vz aaaw men TFF is my favorite. Here's one for squashing every bug in the future 🎶🖤⚡👽,"[CUSTOMER] @115888 @SpotifyCares https://t.co/Kgzo5QNJJ9 problem fixed. thank you so much for addressing it 🤘⚔️⚡🎶👽👹😉
+[SPOTIFY] @385696 Awesome, that's what we like to hear! If you need us again, just... https://t.co/AUc7DGJpgF 😉 /NY
+[CUSTOMER] @SpotifyCares https://t.co/tjHvHEL2vz aaaw men TFF is my favorite. Here's one for squashing every bug in the future 🎶🖤⚡👽",ACKNOWLEDGEMENT,SUPPORT_CHANNEL_OR_LANGUAGE,
+158,798495,310361,Fri Oct 13 04:08:08 +0000 2017,"@SpotifyCares Im in the US, It just uploaded and I'm listening to it now! Thank you &lt;3","[CUSTOMER] WHEN IS KING KRULE -THE OOZ GOING TO BE ON @115888 I NEED TO HEAR IT ):
+[SPOTIFY] @310361 Hey Katelyn! Could you let us know which country you're from? We'll take a look backstage /RA
+[CUSTOMER] @SpotifyCares Im in the US, It just uploaded and I'm listening to it now! Thank you &lt;3",FOLLOW_UP,CONTENT_OR_CATALOG,
+165,2381842,316439,Tue Nov 14 06:15:14 +0000 2017,"@SpotifyCares An iPod Touch 6th gen, running iOS 11.1.1","[CUSTOMER] @SpotifyCares how Can I determine how many songs I’ve saved in my library over the years, I wanna know my total record 😂
+[SPOTIFY] @316439 Hey Chris! We're here to help. Could you let us know what device you're using? We'll see what we can suggest /JT
+[CUSTOMER] @SpotifyCares An iPod Touch 6th gen, running iOS 11.1.1",FOLLOW_UP,CONTENT_OR_CATALOG,
+166,1000167,155565,Fri Nov 03 18:56:32 +0000 2017,"@SpotifyCares All songs. I guess it's one thing if it's pulled by an artist, but if a licensing agreement is about to expire, a heads-up would be nice.","[CUSTOMER] I’m tired of songs disappearing from @115888 without warning. At least Netflix alerts you before something is removed.
+[SPOTIFY] @155565 Hi Mark! We'll do our best to sort this out. Can you let us know if this happens to all your songs or a specific playlist? /HR
+[CUSTOMER] @SpotifyCares All songs. I guess it's one thing if it's pulled by an artist, but if a licensing agreement is about to expire, a heads-up would be nice.",FEEDBACK,PLAYBACK_OR_APP_ISSUE,
+167,809604,312914,Thu Oct 12 18:58:27 +0000 2017,@SpotifyCares USA,"[CUSTOMER] @115888 really played my life by removing my favorite GNR song https://t.co/ShVcQVsBb0
+[SPOTIFY] @312914 Hey J! Just to check, what country is your account set to? We'll see what we can find backstage /JP
+[CUSTOMER] @SpotifyCares USA",FOLLOW_UP,CONTENT_OR_CATALOG,
+175,888581,325676,Fri Oct 13 21:35:52 +0000 2017,@SpotifyCares Windows 950xl phone.,"[CUSTOMER] Their UI sucks but their twitter team does not. https://t.co/YqHaQdoglr
+[SPOTIFY] @325676 You're welcome! We don’t have any other info on this right now, but let us know if you need a hand with anything else /JX
+[CUSTOMER] @SpotifyCares One layer of well-considered UI menus options would make things much easier.
+[SPOTIFY] @325676 Just to clarify, What device are you using? We'll see what we can suggest /JX
+[CUSTOMER] @SpotifyCares Windows 950xl phone.",FEEDBACK,FEATURE_OR_UI,
+178,2871147,797223,Tue Nov 28 11:53:00 +0000 2017,@SpotifyCares Just did. Thanks,"[CUSTOMER] @115888 I want to take advantage of your offer. But I can't find the call-to-action link. Help, please?
+[SPOTIFY] @797223 Hey! The cavalry's here. Can you DM us your account's username or email address? We'll take a look under the hood /JS https://t.co/ldFdZRiNAt
+[CUSTOMER] @SpotifyCares Just did. Thanks",FOLLOW_UP,PROMOTION_OR_EVENT,
+179,414138,213827,Tue Oct 10 01:54:40 +0000 2017,@SpotifyCares I'm using macOS Sierra ver 10.12 and my current Spotify version is 1.0.64.399.g4637b02a,"[CUSTOMER] @SpotifyCares The new Spotlights album, Seismic, is not on the correct page. Or it's associated with the incorrect Spotlights band.
+[SPOTIFY] @213827 Hey! Everything looks good on our end. Can you send us a screenshot of what you're seeing? /RH
+[CUSTOMER] @SpotifyCares Sure! This is the page on which the album is currently located... https://t.co/DlfEEYCSfN
+[CUSTOMER] @SpotifyCares And this is the page it should be on: https://t.co/x6pSK3bnhh
+[SPOTIFY] @213827 Hmm, that's strange. Can you let us know the operating system and Spotify version you're using? /RH
+[CUSTOMER] @SpotifyCares I'm using macOS Sierra ver 10.12 and my current Spotify version is 1.0.64.399.g4637b02a",FOLLOW_UP,CONTENT_OR_CATALOG,
+183,1019570,361242,Sun Oct 22 15:17:27 +0000 2017,"@SpotifyCares i am trying it on my Mac Pro, in safari, but all I see is a white space. No success, and daughters complaining :-(","[CUSTOMER] @117153 I upgraded from premium to family account (this morning) but cannot invite members as the activation screens is white
+[SPOTIFY] @361242 Hi, help's here! Could you give it another go using an incognito window? We'd also suggest trying it out on a desktop. Any better? /GN
+[CUSTOMER] @SpotifyCares i am trying it on my Mac Pro, in safari, but all I see is a white space. No success, and daughters complaining :-(",FOLLOW_UP,PLAYBACK_OR_APP_ISSUE,
+184,1169139,395008,Tue Oct 24 19:13:02 +0000 2017,"@SpotifyCares 15” MacBook Pro, macOS Sierra 10.12.6, Spotify Premium 1.0.66478.g1296534d","[CUSTOMER] Yo, @115888, what’s the deal with not putting @335536 ‘s #Glasshouse in New Releases? #yousleepin
+[SPOTIFY] @395008 Hi Brooke! What device (make and model), operating system, and Spotify version are you using? We'll see what we can do /AU
+[CUSTOMER] @SpotifyCares 15” MacBook Pro, macOS Sierra 10.12.6, Spotify Premium 1.0.66478.g1296534d",FOLLOW_UP,PLAYBACK_OR_APP_ISSUE,
+194,1034826,364795,Mon Oct 23 06:44:18 +0000 2017,"@SpotifyCares I'm running Windows 10 Home. My Spotify version is whatever is available through the Windows store, fully updated.","[CUSTOMER] My laptop crashes every time I try to open the @115888 application. What do I need to do?
+[SPOTIFY] @364795 Hey, that doesn't sound good! Which operating system and Spotify version are you running? We'll see what we can suggest /MA
+[CUSTOMER] @SpotifyCares I'm running Windows 10 Home. My Spotify version is whatever is available through the Windows store, fully updated.",FOLLOW_UP,SUBSCRIPTION_OR_PAYMENT,
+195,1858274,555656,Thu Oct 19 14:18:04 +0000 2017,"@SpotifyCares Right at the beginning and the second chorus, next track did it too, not sure of the rest as I turned it off","[CUSTOMER] @SpotifyCares Antenna by Cave In (@86424) is properly KNACKERED. Skips and cuts to other music all over the place. Stained Silver v bad
+[SPOTIFY] @555656 Can you send us the Spotify URI? Just right-click the track &gt; Share &gt; URI. We'll check it out /CB
+[CUSTOMER] @SpotifyCares https://t.co/6hy8b31752 I'm on mobile, but does that help?
+[SPOTIFY] @555656 Thanks! Can you let us know where on the track this is happening? Also, is this happening with all of the songs on the record? /CB
+[CUSTOMER] @SpotifyCares Right at the beginning and the second chorus, next track did it too, not sure of the rest as I turned it off",FOLLOW_UP,PLAYBACK_OR_APP_ISSUE,
+197,2294402,264524,Sun Nov 12 22:20:42 +0000 2017,@SpotifyCares Thanks! You've been very helpful!,"[CUSTOMER] @115888 is there a way I can get my spotify play lists on my apple watch??
+[SPOTIFY] @264524 Hi Sam! Check out the official idea and add your vote to let our devs know it's something you'd like to see: https://t.co/SEK4E4gi22 /DD
+[CUSTOMER] @SpotifyCares Ok thanks! I voted to please build an app for it! I may have to switch to Apple music otherwise so I can run with playlists
+[SPOTIFY] @264524 Awesome! Don't worry, we've already given the right folks a nudge about this. Send a tweet our way if you ever need us again 😉 /CH
+[CUSTOMER] @SpotifyCares Thanks! You've been very helpful!",FOLLOW_UP,FEATURE_OR_UI,
