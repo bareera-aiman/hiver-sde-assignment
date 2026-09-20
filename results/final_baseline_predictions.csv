@@ -1,0 +1,61 @@
+case_id,customer_id,customer_message,intent_label,majority_prediction,tfidf_prediction
+2,475306,@SpotifyCares I shall drop you a DM in a bit. Seems to be happening to others though looking online and the Spotify forum thingy!,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+3,483022,"@SpotifyCares This is real off point, not only does it look atrocious, the app doesn’t even work properly. Will be switching to Apple Music on Tuesday morning if there is no update by then.",FEATURE_OR_UI,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+4,160026,@SpotifyCares Okay. Thankyou.,SUBSCRIPTION_OR_PAYMENT,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+12,395005,@SpotifyCares Definatly,SUBSCRIPTION_OR_PAYMENT,PLAYBACK_OR_APP_ISSUE,FEATURE_OR_UI
+14,554403,@SpotifyCares Hi! Janella P. From Spotify solved my problem! Please thank her for me! And thank you for replying so quickly!,CONTENT_OR_CATALOG,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+18,135367,"@SpotifyCares Thanks for response! The app says that music is playing, but no sound comes out. I have to restart to make it work again.",PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+19,496327,@SpotifyCares Do you think it only affects me? That all other users get their correct location from your database but mine and mine alone is pulled from IP?,PRIVACY_OR_DATA,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+22,466180,@SpotifyCares Actually I can't access any of my songs before I could choose what song to listen too also if I go on shuffle play and a song I dislike is on I have a certain amount of skips and before you say I need premium I already have premium so help 😰,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+25,533903,"@SpotifyCares I try to shuffle in playlist and it really doesn't play randomly, plays the same artist almost continuously. Don't know what connect is",PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+44,266345,"@SpotifyCares Tried again.  Closed.  Opened.
+
+No update.
+
+Signed out.  Signed back in.
+
+as I stated no big deal...just a bit annoying.
+
+Thanks.",PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+46,272397,@SpotifyCares This https://t.co/nBPLTZTNw7,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,FEATURE_OR_UI
+47,556105,"@SpotifyCares and it shows its stopped at the song, not pausing or so That happens to often and i see other too have the problem in the @115888 community",PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+52,294100,@SpotifyCares Yes. I tried registering for unidays found the institute but it said they weren't supported.,SUBSCRIPTION_OR_PAYMENT,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+57,700528,@SpotifyCares is this right https://t.co/xOQEGoNN6M,CONTENT_OR_CATALOG,PLAYBACK_OR_APP_ISSUE,FEATURE_OR_UI
+59,546846,"@SpotifyCares @115888 The only step I haven't tried yet is the ""manage devices"", all the rest I've done or is irrelevant. Would that possibly work? Cause I see two problems:
+-Individual songs over time deleting themselves
+-All download buttons reset and all music gone at once",PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+62,808368,"@SpotifyCares PC, Windows 10, v. 1.0.68.407",PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+63,800778,@SpotifyCares Should you not give you members a better deal my son loves listening to his music and pays his £9-99 you should try and be fair with everyone,OTHER,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+64,653231,@SpotifyCares All sorted now! But thanks for the response :),ACCOUNT,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+65,361772,@SpotifyCares Ok hang on,FEATURE_OR_UI,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+68,679799,@SpotifyCares I deleted and reinstalled but that did not fix it,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+70,280546,"@SpotifyCares Ok, thanks.",PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+71,694697,@SpotifyCares If you sort that I’ll finally be able to get rid of iTunes once and for all,FEATURE_OR_UI,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+72,420189,@SpotifyCares Yes but the problem returns,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+78,325676,@SpotifyCares New update tomorrow ?,FEATURE_OR_UI,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+87,624396,"@SpotifyCares Hi guys, thanks for the link. I already clean my cache regularly (~ every month), but I would love not to have to do that :) (thus, automatically cleaning old cached files). I'm on nexus, so I can't use a SD, sadly. Plus, app doesn't need that much data for real.",PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+96,446898,"@SpotifyCares i have an iphone 7, ios11, and i have spotify premium",CONTENT_OR_CATALOG,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+97,794910,@SpotifyCares hi i love u but there's no reply,ACCOUNT,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+98,578986,@SpotifyCares Five years and counting... Make it happen! 😊,FEATURE_OR_UI,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+107,297789,@SpotifyCares I noticed it today and I'm on private university wifi where each person has their own connection,FEATURE_OR_UI,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+110,822477,@SpotifyCares Welp okay,ACCOUNT,PLAYBACK_OR_APP_ISSUE,CONTENT_OR_CATALOG
+111,159744,"@SpotifyCares Sure, 8.4.21.508 armV7",PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+118,272838,"@SpotifyCares No, there's nothing else I want. I just want to use Spotify here.",CONTENT_OR_CATALOG,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+126,214355,@SpotifyCares 8.4.22.857? I think.,FEATURE_OR_UI,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+137,557917,@SpotifyCares Thank you,ACCOUNT,PLAYBACK_OR_APP_ISSUE,FEATURE_OR_UI
+138,285072,@SpotifyCares Here’s 680K Google results https://t.co/RSQirIhfI9 on “spotify explicit”. Enough of “we’ll be sure to pass it on”. Take action. Seriously.,CONTENT_OR_CATALOG,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+139,613839,@SpotifyCares I can't update them until I have the new card sent as I don't yet know the number etc,SUBSCRIPTION_OR_PAYMENT,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+154,241769,@SpotifyCares Shouldn’t there be an indicator here at the top saying how many downloads still need to happen? https://t.co/SqWtKPjjXi,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+157,385696,@SpotifyCares https://t.co/tjHvHEL2vz aaaw men TFF is my favorite. Here's one for squashing every bug in the future 🎶🖤⚡👽,SUPPORT_CHANNEL_OR_LANGUAGE,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+158,310361,"@SpotifyCares Im in the US, It just uploaded and I'm listening to it now! Thank you &lt;3",CONTENT_OR_CATALOG,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+165,316439,"@SpotifyCares An iPod Touch 6th gen, running iOS 11.1.1",CONTENT_OR_CATALOG,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+166,155565,"@SpotifyCares All songs. I guess it's one thing if it's pulled by an artist, but if a licensing agreement is about to expire, a heads-up would be nice.",PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+167,312914,@SpotifyCares USA,CONTENT_OR_CATALOG,PLAYBACK_OR_APP_ISSUE,FEATURE_OR_UI
+175,325676,@SpotifyCares Windows 950xl phone.,FEATURE_OR_UI,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+178,797223,@SpotifyCares Just did. Thanks,PROMOTION_OR_EVENT,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+179,213827,@SpotifyCares I'm using macOS Sierra ver 10.12 and my current Spotify version is 1.0.64.399.g4637b02a,CONTENT_OR_CATALOG,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+183,361242,"@SpotifyCares i am trying it on my Mac Pro, in safari, but all I see is a white space. No success, and daughters complaining :-(",PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+184,395008,"@SpotifyCares 15” MacBook Pro, macOS Sierra 10.12.6, Spotify Premium 1.0.66478.g1296534d",PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+194,364795,"@SpotifyCares I'm running Windows 10 Home. My Spotify version is whatever is available through the Windows store, fully updated.",SUBSCRIPTION_OR_PAYMENT,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+195,555656,"@SpotifyCares Right at the beginning and the second chorus, next track did it too, not sure of the rest as I turned it off",PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
+197,264524,@SpotifyCares Thanks! You've been very helpful!,FEATURE_OR_UI,PLAYBACK_OR_APP_ISSUE,PLAYBACK_OR_APP_ISSUE
